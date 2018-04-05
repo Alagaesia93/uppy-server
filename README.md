@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # uppy-server
 
 <img src="http://uppy.io/images/logos/uppy-dog-full.svg" width="120" alt="Uppy logo — a superman puppy in a pink suit" align="right">
@@ -76,3 +77,6 @@ npm start
 ```
 
 See [full documentation](https://uppy.io/docs/server/)
+=======
+# uppy-server
+>>>>>>> 034db9b23145effb3944879bb34402b3112d54e2
